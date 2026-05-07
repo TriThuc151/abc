@@ -1,0 +1,12 @@
+BEGIN 3:alu_if:fast__2:work
+    b :  1:top:fast:work
+    y :  1:top:fast:work
+    a :  1:top:fast:work
+    op :  1:top:fast:work
+END 
+BEGIN 3:alu_if:fast__1:work
+    op :  1:alu_pkg:fast:work
+    y :  1:alu_pkg:fast:work
+    a :  1:alu_pkg:fast:work
+    b :  1:alu_pkg:fast:work
+END 

@@ -1,0 +1,7 @@
+2 7 uvm_pkg 4 fast 37 D:/altera/25.1std/questa_fse/uvm-1.1d 0 0 26345472 0 136476 0
+2 14 questa_uvm_pkg 4 fast 37 D:/altera/25.1std/questa_fse/uvm-1.1d 0 0 1482752 26345472 7091 0
+1 7 alu_pkg 4 fast 15 D:/example/work 0 0 1087488 26345472 1053 0
+2 6 alu_if 5 synth 15 D:/example/work 0 0 0 0 0 0
+2 6 alu_if 7 fast__2 15 D:/example/work 0 0 0 0 5 0
+2 3 alu 4 fast 15 D:/example/work 0 0 0 0 37 0
+1 3 top 4 fast 15 D:/example/work 0 0 0 26607616 35 0
